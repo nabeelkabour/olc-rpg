@@ -3,6 +3,8 @@
 
 #include "Game.h"
 
+class Game;
+
 namespace UI
 {
 	class MouseButton

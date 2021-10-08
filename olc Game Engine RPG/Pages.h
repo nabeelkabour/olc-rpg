@@ -4,6 +4,8 @@
 #include "Enemy.h"
 #include "UI.h"
 
+class Game;
+
 class MainPage;
 class NamePage;
 class IntroPage;

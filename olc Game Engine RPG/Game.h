@@ -12,8 +12,6 @@
 #define FIGHT_EXIT_CH2_WIN 2
 #define FIGHT_EXIT_PLAYER_FLEE 3
 
-class Game;
-
 void game_loop();
 void fight_loop();
 int player_fight(Game*, Player*, Lifeform*);
